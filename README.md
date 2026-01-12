@@ -1,3 +1,5 @@
+![Header](header.png)
+
 # Taller de Opciones SPY - MIAX 14
 
 **Autor:** Emilio Sánchez  
