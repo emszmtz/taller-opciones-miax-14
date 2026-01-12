@@ -182,12 +182,6 @@ El backtest de **Long Straddle mensual** (2024-2025) muestra:
 
 2. **Datos delayed:** Se utiliza `marketDataType=4` (frozen/delayed) para cuentas sin suscripción completa.
 
-3. **Errores de strikes:** Algunos strikes pueden no existir para ciertos vencimientos; el código maneja estos casos gracefully.
-
-4. **SPY vs SPX:**
-   - SPY: Opciones americanas, liquidación física, afectadas por dividendos
-   - SPX: Opciones europeas, liquidación en efectivo, sin ejercicio anticipado
-
 ---
 
 ## Referencias
