@@ -13,8 +13,6 @@
 
 Este proyecto constituye un taller práctico y completo sobre trading de opciones utilizando el ETF SPY como subyacente. Integra conexión en tiempo real con Interactive Brokers, cálculo de griegas mediante el modelo Black-Scholes, análisis de superficies de volatilidad, estrategias de cobertura delta y backtesting de estrategias sistemáticas.
 
-El notebook está diseñado como material educativo y de aplicación práctica para el programa MIAX, combinando fundamentos teóricos con implementación en Python y datos de mercado reales.
-
 ---
 
 ## Estructura del Proyecto
