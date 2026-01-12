@@ -190,12 +190,6 @@ El backtest de **Long Straddle mensual** (2024-2025) muestra:
 
 ---
 
-## Licencia
-
-Material educativo desarrollado para el programa MIAX 14.
-
----
-
 ## Referencias
 
 - Hull, J. (2018). *Options, Futures, and Other Derivatives*
