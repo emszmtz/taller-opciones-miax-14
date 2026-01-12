@@ -85,7 +85,7 @@ Asegúrate de que TWS está corriendo con la API habilitada en `Configuración >
 ### 2. Ejecutar el Notebook
 
 ```bash
-jupyter notebook opciones_spy_ibkr_1.ipynb
+jupyter notebook taller_opciones_SPY.ipynb
 ```
 
 ### 3. Conexión
